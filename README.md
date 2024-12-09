@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DefinitelyNotNas
 - 👀 I’m interested in any thing related to software engineering
-- 🌱 I’m currently learning through cs50x 
+- 🌱 I’m currently learning through Fullstack Academy
 - 💞️ I’m looking to collaborate on anything that can help gain experience
 - 📫 You can reach me by my instagram, DefinitelyNotNas
 
